@@ -139,3 +139,52 @@ a {
 }
 
 
+
+
+.statistics {
+}
+
+.statistics__container {}
+.statistics .statistics__title {}
+.statistics .statistics__box {}
+
+.statistics__single {}
+
+.statistics__single:first-child .statistics__circle {}
+.statistics__single:first-child .statistics__img {}
+
+.statistics__single:nth-child(2) .statistics__circle {}
+.statistics__single:nth-child(2) .statistics__img {}
+
+.statistics__single:last-child .statistics__circle {}
+.statistics__single:last-child .statistics__img {}
+
+.statistics__single .statistics__number {}
+
+.statistics__single .statistics__description {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
