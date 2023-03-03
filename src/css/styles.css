@@ -1,0 +1,26 @@
+.container {}
+
+.btn {}
+.btn-primary {}
+
+.img_bg {}
+
+.header {}
+.header .header__wrapper {}
+
+.logo {}
+.logo .logo__text {}
+
+.mainMenu {}
+.mainMenu .mainMenu__item {}
+.mainMenu .mainMenu__item.mainMenu__item--active {}
+
+.box__wrapper {}
+
+.hero {}
+.hero .hero__box {}
+.hero .hero__hdl {}
+.hero .hero__text {}
+.hero .hero__link {}
+
+
