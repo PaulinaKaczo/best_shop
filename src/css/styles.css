@@ -239,6 +239,24 @@ a {
 /*benefits section*/
 
 
+.benefits {}
+.benefits__container {}
+.benefits .benefits__single {}
+
+.benefits .benefits__single.benefits__single--notebook {}
+.benefits .benefits__text {}
+.benefits .benefits__text .benefits__title {}
+.benefits .benefits__text .benefits__description {}
+.benefits .benefits__image {}
+.benefits .benefits__image .image__notebook {}
+
+.benefits .benefits__single.benefits__single--phone {}
+.benefits .benefits__image .image__phone {}
+
+.benefits .benefits__single--solo {}
+
+.benefits .image__solo {}
+.benefits .image__solo .image__trumpet {}
 
 
 
